@@ -1,0 +1,29 @@
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+body{
+    margin: 0px;
+background-color: cadetblue;
+
+}
+
+
+
+    
+h1 {background-color: rgb(60, 139, 142);
+    margin: 0px;
+    padding: 12px, 10px;
+    height: 10svh;
+
+}
+
+#heygang {background-color: rgb(60, 139, 142);
+    
+    display: flex;
+justify-content: space-evenly;
+
+}
+
+.heh {color: rgb(192, 212, 212);}
